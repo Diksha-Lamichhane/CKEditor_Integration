@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lamic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lamic\\.nuget\\packages"
+    ]
+  }
+}
